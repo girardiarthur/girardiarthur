@@ -10,7 +10,7 @@ Meu nome é Arthur Girardi, tenho 19 anos e moro em São Paulo, capital. Sou est
 
 #
 
-<img align="right" alt="" height="190px" src="./scr/l-lawliet-death-note.gif">
+<img align="right" alt="" height="190px" src="./scr/l.gif">
 
 <h3 align="left">Connect with me!</h3>
 
